@@ -65,6 +65,10 @@ Press `Ctrl+C` to stop both services.
 
 You can obviously run the backend and frontend separately if you want to by navigating to the respective directories and running the commands there.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/PayMe/)
+
 ## Database
 
 SQLite database created at `backend/payme.db`. Tables auto-migrate on startup.
